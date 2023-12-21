@@ -6,10 +6,9 @@ Smart Rings Protocol is an innovative project that allows users to seamlessly pr
 
 ## Repo
 
-- [WebApp](https://github.com/hack-chainlink/WebApp)
-- [ChainLink Functions](https://github.com/hack-chainlink/chainlink-functions-call)   
-- [Smart Contracts](https://github.com/hack-chainlink/contracts)
-- [API](https://github.com/hack-chainlink/API) without Alice's Ring library (closed source for now -> waiting for audit)
+- [WebApp](https://github.com/Smart-Rings/web-App)
+- [Smart Contracts](https://github.com/Smart-Rings/evm-contracts)
+- [API](https://github.com/Smart-Rings/API)
 
 ## Table of Contents 📑
 
@@ -30,7 +29,7 @@ Smart Rings Protocol is an innovative project that allows users to seamlessly pr
 
 ## Usage 📈
 
-To use the Smart Rings Protocol on Ethereum, Avalanche or Polygon testnets, you can directly interact with our [WebApp](https://web-app-chainlink-hack.vercel.app/):  
+To use the Smart Rings Protocol on Ethereum, Avalanche or Polygon testnets, you can directly interact with our [WebApp](http://89.58.41.130:3000/):  
 
 
 ## Technical Details 🛠️
@@ -68,9 +67,6 @@ Security and privacy are paramount in the Cro on Ethereum project:
 
 ## Useful ressources 📜
 
-- **Litepaper:** You can find our litepaer [here](https://github.com/hack-chainlink/.github/blob/main/CRP%20Lightpaper.pdf)
+- **Litepaper:** You can find our litepaer [here](https://github.com/Smart-Rings/.github/blob/main/CRP%20Lightpaper.pdf)
 - [**Alice's Ring, ring signature protocol*](https://www.cypherlab.fr/alices-ring)
 
-## Note
-
-This project was concurrently developed for two hackathons that occurred simultaneously. Here is the tailored version for the Chainlink - Constellation hackathon and the other is designed for the XRPL-EVM hackathon (https://github.com/hakcthaon-xrpl-evm).
